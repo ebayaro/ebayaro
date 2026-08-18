@@ -1,6 +1,6 @@
 ## Hi there  I'm Clark Bayaro👋
 
-- 🔭 I’m currently working on Neural Netwoks
+- I’m currently working on Neural Netwoks
 <!--
 **ebayaro/ebayaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
